@@ -2,7 +2,7 @@
 
 The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science.
 
-### Winter 2017: Machine Learning and Deep Learning in Python
+### Winter 2017: Neural Networks and Deep Learning in Python
 
 #### OUTLINE
 
