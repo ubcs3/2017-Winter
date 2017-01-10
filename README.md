@@ -33,4 +33,12 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 #### SCHEDULE
 
-* Week 1 - Friday January 13 - 1-2pm - Location TBA
+* Week 1 - Friday January 20 - 1-2pm - UCLL 109
+  * Review of machine learning problems and scikit-learn API
+  * First examples of neural networks
+    * Perceptrons
+    * Multi-layer Perceptrons
+* Week 2 - Friday January 27 - 1-2pm - UCLL 109
+* Week 3 - Friday February 3 - 1-2pm - UCLL 109
+* Week 4 - Friday February 10 - 1-2pm - UCLL 109
+* Week 5 - Friday February 17 - 1-2pm - UCLL 109
