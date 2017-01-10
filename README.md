@@ -16,12 +16,12 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
   * [SciPy Stack](http://scipy.org/): scientific computing with [NumPy](http://www.numpy.org/), [SciPy](http://scipy.org/), [matplotlib](http://matplotlib.org/) and [pandas](http://pandas.pydata.org/)
   * [Python](https://www.python.org/) and [Jupyter Notebooks](http://jupyter.org/)
 * What **scientific topics** will we study?
-  * Neural networks and deep learning following:
+  * Neural networks and deep learning:
     * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
     * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
   * Advanced machine learning topics following [scikit-learn tutorials](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 * Where do we start? What are the **prerequisites**?
-  * UBCS3 Winter 2017 is a continuation of [UBCS3 Fall 2016](https://github.com/ubcs3/2016-Fall) which included:
+  * UBCS3 Winter 2017 is a continuation of [UBCS3 Fall 2016](https://github.com/ubcs3/2016-Fall):
     * Machine learning fundamentals: regression, classification, clustering, and dimensionality reduction
     * Natural language processing
   * Calculus, linear algebra, and probability
@@ -33,6 +33,4 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 #### SCHEDULE
 
-Winter 2017 will consist of weekly 1-hour meetings held from January until April. The regular scheduled time is Friday 1-2pm.
-
-* Week 1 - Friday January 13 - 1-2pm - LSK 121
+* Week 1 - Friday January 13 - 1-2pm - Location TBA
