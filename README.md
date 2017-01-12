@@ -19,6 +19,7 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
   * Neural networks and deep learning:
     * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
     * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+    * [deeplearning.net](http://deeplearning.net/)
   * Advanced machine learning topics following [scikit-learn tutorials](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 * Where do we start? What are the **prerequisites**?
   * UBCS3 Winter 2017 is a continuation of [UBCS3 Fall 2016](https://github.com/ubcs3/2016-Fall):
