@@ -37,10 +37,9 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to receive weekly updates about the seminar.
 
 * Week 1 - Friday January 20 - 1-2pm - UCLL 109
-  * Review of machine learning problems and scikit-learn API
-  * First examples of neural networks
-    * Perceptrons
-    * Multi-layer Perceptrons
+  * Review: Simple machine learning problems and scikit-learn API
+        * Regression, classification, clustering, and dimensionality reduction
+  * Introduction to neural networks
 * Week 2 - Friday January 27 - 1-2pm - UCLL 109
 * Week 3 - Friday February 3 - 1-2pm - UCLL 109
 * Week 4 - Friday February 10 - 1-2pm - UCLL 109
