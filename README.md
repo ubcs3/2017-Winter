@@ -36,11 +36,11 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to receive weekly updates about the seminar.
 
-* Week 1 - Friday January 20 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-2017-01-20.ipynb)]
+* Week 1 - Friday January 20 - 1-2pm - UCLL 109 - [[Notes](notes-2017-01-20.ipynb)]
   * Review: Simple machine learning problems and scikit-learn API
         * Regression, classification, clustering, and dimensionality reduction
   * Introduction to neural networks
-* Week 2 - Friday January 27 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-2017-01-27.ipynb)]
+* Week 2 - Friday January 27 - 1-2pm - UCLL 109 - [[Notes](notes-2017-01-27.ipynb)]
   * What is a neural network?
     * Definition, goals and challenges
   * Structure of neural networks
