@@ -47,9 +47,12 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
     * Neurons, layers, activations, weights and biases
   * Examples: Neural networks using scikit-learn
     * Digits dataset
-* Week 3 - Friday February 3 - 1-2pm - UCLL 109
-  * How do we train a neural network?
+* Week 3 - Friday February 3 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-2017-02-03)]
+  * How to train an neural network
+    * Layers, weights and biases
+    * Training data and a cost function
     * Stochastic gradient descent and backpropagation
-    * Cross-entropy and regularization
+    * L2 regularization
+  * A bad example of gradient descent
 * Week 4 - Friday February 10 - 1-2pm - UCLL 109
 * Week 5 - Friday February 17 - 1-2pm - UCLL 109
