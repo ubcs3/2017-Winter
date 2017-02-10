@@ -54,5 +54,5 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
     * Stochastic gradient descent and backpropagation
     * L2 regularization
   * A bad example of gradient descent
-* Week 4 - Friday February 10 - 1-2pm - UCLL 109
+* Week 4 - Friday February 10 - **No meeting**
 * Week 5 - Friday February 17 - 1-2pm - UCLL 109
