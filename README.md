@@ -47,7 +47,7 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
     * Neurons, layers, activations, weights and biases
   * Examples: Neural networks using scikit-learn
     * Digits dataset
-* Week 3 - Friday February 3 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-2017-02-03)]
+* Week 3 - Friday February 3 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-2017-02-03.ipynb)]
   * How to train an neural network
     * Layers, weights and biases
     * Training data and a cost function
