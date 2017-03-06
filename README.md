@@ -55,4 +55,10 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
     * L2 regularization
   * A bad example of gradient descent
 * Week 4 - Friday February 10 - **No meeting**
-* Week 5 - Friday February 17 - 1-2pm - UCLL 109
+* Week 5 - Friday February 17 - **No meeting**
+* Week 6 - *Reading Break*
+* Week 6 - Friday March 3 - 1-2pm - UCLL 109 - [[Notes](https://github.com/ubcs3/2017-Winter/notes-aaron-2017-03-03.ipynb)]
+  * Jupyter magics
+  * Pythonic programming
+  * Running stuf quickly
+  * Fast computations in Python with Numba and Cython
