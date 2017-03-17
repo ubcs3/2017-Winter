@@ -56,9 +56,15 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
   * A bad example of gradient descent
 * Week 4 - Friday February 10 - **No meeting**
 * Week 5 - Friday February 17 - **No meeting**
-* Week 6 - *Reading Break*
-* Week 6 - Friday March 3 - 1-2pm - UCLL 109 - [[Notes](notes-aaron-2017-03-03.ipynb)]
+* *Reading Break*
+* Week 6 - Friday March 3 - 1-2pm - UCLL 109 - [[Notes](notes-aaron-full-2017-03-03.ipynb)] - (presented by [@asberk](https://github.com/asberk))
   * Jupyter magics
   * Pythonic programming
-  * Running stuf quickly
+  * Running stuff quickly
   * Fast computations in Python with Numba and Cython
+* Week 7 - Friday March 10 - 1-2pm - UCLL 109 - [[Notes](notes-aaron-full-2017-03-10.ipynb)] - (presented by [@asberk](https://github.com/asberk))
+  * LogisticRegressor class
+  * Setting alpha
+  * Coordinate optimization
+  * Exercises
+* Week 7 - Friday March 10 - 1-2pm - UCLL 109 - [[Notes](notes-aaron-full-2017-03-10.ipynb)]
