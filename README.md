@@ -67,4 +67,5 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
   * Setting alpha
   * Coordinate optimization
   * Exercises
-* Week 7 - Friday March 10 - 1-2pm - UCLL 109 - [[Notes](notes-aaron-full-2017-03-10.ipynb)]
+* Week 8 - Friday March 17 - 1-2pm - UCLL 109 - (presented by [@sempwn](https://github.com/sempwn))
+  * Introduction to [Keras](https://keras.io/): Deep Learning library for [Theano](http://deeplearning.net/software/theano/) and [Tensorflow](https://www.tensorflow.org/)
